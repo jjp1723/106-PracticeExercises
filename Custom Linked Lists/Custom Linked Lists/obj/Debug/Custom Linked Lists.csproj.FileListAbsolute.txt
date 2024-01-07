@@ -1,0 +1,13 @@
+G:\School Stuff\RIT\GDAPS 2\Practice Exercises\Custom Linked Lists\Custom Linked Lists\bin\Debug\Custom Linked Lists.exe.config
+G:\School Stuff\RIT\GDAPS 2\Practice Exercises\Custom Linked Lists\Custom Linked Lists\bin\Debug\Custom Linked Lists.exe
+G:\School Stuff\RIT\GDAPS 2\Practice Exercises\Custom Linked Lists\Custom Linked Lists\bin\Debug\Custom Linked Lists.pdb
+G:\School Stuff\RIT\GDAPS 2\Practice Exercises\Custom Linked Lists\Custom Linked Lists\obj\Debug\Custom Linked Lists.csprojAssemblyReference.cache
+G:\School Stuff\RIT\GDAPS 2\Practice Exercises\Custom Linked Lists\Custom Linked Lists\obj\Debug\Custom Linked Lists.csproj.CoreCompileInputs.cache
+G:\School Stuff\RIT\GDAPS 2\Practice Exercises\Custom Linked Lists\Custom Linked Lists\obj\Debug\Custom Linked Lists.exe
+G:\School Stuff\RIT\GDAPS 2\Practice Exercises\Custom Linked Lists\Custom Linked Lists\obj\Debug\Custom Linked Lists.pdb
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\Custom Linked Lists\Custom Linked Lists\bin\Debug\Custom Linked Lists.exe.config
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\Custom Linked Lists\Custom Linked Lists\bin\Debug\Custom Linked Lists.exe
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\Custom Linked Lists\Custom Linked Lists\bin\Debug\Custom Linked Lists.pdb
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\Custom Linked Lists\Custom Linked Lists\obj\Debug\Custom Linked Lists.csprojAssemblyReference.cache
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\Custom Linked Lists\Custom Linked Lists\obj\Debug\Custom Linked Lists.exe
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\Custom Linked Lists\Custom Linked Lists\obj\Debug\Custom Linked Lists.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpriteFont Practice", "SpriteFont Practice\SpriteFont Practice.csproj", "{5B8AE69B-BFC5-4D4B-9BF1-2B84E6F98674}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B8AE69B-BFC5-4D4B-9BF1-2B84E6F98674}.Debug|x86.ActiveCfg = Debug|x86
+		{5B8AE69B-BFC5-4D4B-9BF1-2B84E6F98674}.Debug|x86.Build.0 = Debug|x86
+		{5B8AE69B-BFC5-4D4B-9BF1-2B84E6F98674}.Release|x86.ActiveCfg = Release|x86
+		{5B8AE69B-BFC5-4D4B-9BF1-2B84E6F98674}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15D33396-9C0E-4171-8716-FFB144965796}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,24 @@
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\MonoGame Basics\MonoGame Basics\bin\Windows\x86\Debug\MonoGame Basics.exe
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\MonoGame Basics\MonoGame Basics\bin\Windows\x86\Debug\MonoGame Basics.pdb
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\MonoGame Basics\MonoGame Basics\bin\Windows\x86\Debug\MonoGame.Framework.dll
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\MonoGame Basics\MonoGame Basics\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\MonoGame Basics\MonoGame Basics\bin\Windows\x86\Debug\SharpDX.dll
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\MonoGame Basics\MonoGame Basics\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\MonoGame Basics\MonoGame Basics\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\MonoGame Basics\MonoGame Basics\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\MonoGame Basics\MonoGame Basics\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\MonoGame Basics\MonoGame Basics\bin\Windows\x86\Debug\SharpDX.XInput.dll
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\MonoGame Basics\MonoGame Basics\bin\Windows\x86\Debug\MonoGame.Framework.xml
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\MonoGame Basics\MonoGame Basics\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\MonoGame Basics\MonoGame Basics\bin\Windows\x86\Debug\SharpDX.xml
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\MonoGame Basics\MonoGame Basics\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\MonoGame Basics\MonoGame Basics\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\MonoGame Basics\MonoGame Basics\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\MonoGame Basics\MonoGame Basics\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\MonoGame Basics\MonoGame Basics\bin\Windows\x86\Debug\SharpDX.XInput.xml
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\MonoGame Basics\MonoGame Basics\obj\x86\Debug\MonoGame Basics.csprojAssemblyReference.cache
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\MonoGame Basics\MonoGame Basics\obj\x86\Debug\MonoGame Basics.csproj.CopyComplete
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\MonoGame Basics\MonoGame Basics\obj\x86\Debug\MonoGame Basics.exe
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\MonoGame Basics\MonoGame Basics\obj\x86\Debug\MonoGame Basics.pdb
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\MonoGame Basics\MonoGame Basics\bin\Windows\x86\Debug\Content\MeatballMan.xnb
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\MonoGame Basics\MonoGame Basics\bin\Windows\x86\Debug\Content\Earth.xnb

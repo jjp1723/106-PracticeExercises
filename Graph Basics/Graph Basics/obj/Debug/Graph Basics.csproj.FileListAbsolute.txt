@@ -1,0 +1,7 @@
+G:\School Stuff\RIT\GDAPS 2\Practice Exercises\Graph Basics\Graph Basics\bin\Debug\Graph Basics.exe.config
+G:\School Stuff\RIT\GDAPS 2\Practice Exercises\Graph Basics\Graph Basics\bin\Debug\Graph Basics.exe
+G:\School Stuff\RIT\GDAPS 2\Practice Exercises\Graph Basics\Graph Basics\bin\Debug\Graph Basics.pdb
+G:\School Stuff\RIT\GDAPS 2\Practice Exercises\Graph Basics\Graph Basics\obj\Debug\Graph Basics.csprojAssemblyReference.cache
+G:\School Stuff\RIT\GDAPS 2\Practice Exercises\Graph Basics\Graph Basics\obj\Debug\Graph Basics.csproj.CoreCompileInputs.cache
+G:\School Stuff\RIT\GDAPS 2\Practice Exercises\Graph Basics\Graph Basics\obj\Debug\Graph Basics.exe
+G:\School Stuff\RIT\GDAPS 2\Practice Exercises\Graph Basics\Graph Basics\obj\Debug\Graph Basics.pdb

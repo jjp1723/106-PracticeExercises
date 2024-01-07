@@ -1,0 +1,6 @@
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\Coding Challenges\Coding Challenges\bin\Debug\Coding Challenges.exe.config
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\Coding Challenges\Coding Challenges\bin\Debug\Coding Challenges.exe
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\Coding Challenges\Coding Challenges\bin\Debug\Coding Challenges.pdb
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\Coding Challenges\Coding Challenges\obj\Debug\Coding Challenges.csprojAssemblyReference.cache
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\Coding Challenges\Coding Challenges\obj\Debug\Coding Challenges.exe
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\Coding Challenges\Coding Challenges\obj\Debug\Coding Challenges.pdb

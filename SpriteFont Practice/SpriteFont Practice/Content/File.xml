@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:ns="Microsoft.Xna.Framework.Content.Pipeline.Graphics">
+  <Asset Type="Graphics:FontDescription">
+    
+    <!--
+    Modify this string to change the font that will be imported
+    -->
+    <FontName>Arial</FontName>
+
+    <!--
+    Size is a float value, measured in points.  Modify this value to change the size of the font.
+    -->
+    <Size>14</Size>
+
+  </Asset>
+</XnaContent>
+
+

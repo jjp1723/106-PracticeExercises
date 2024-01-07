@@ -1,0 +1,71 @@
+C:\Users\Chris\Desktop\FSMAnimationStarter\bin\Windows\x86\Debug\Content\MarioSpriteSheet.xnb
+C:\Users\Chris\Desktop\FSMAnimationStarter\bin\Windows\x86\Debug\FSMAnimationStarter.exe
+C:\Users\Chris\Desktop\FSMAnimationStarter\bin\Windows\x86\Debug\FSMAnimationStarter.pdb
+C:\Users\Chris\Desktop\FSMAnimationStarter\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Chris\Desktop\FSMAnimationStarter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Chris\Desktop\FSMAnimationStarter\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Chris\Desktop\FSMAnimationStarter\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Chris\Desktop\FSMAnimationStarter\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Chris\Desktop\FSMAnimationStarter\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Chris\Desktop\FSMAnimationStarter\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Chris\Desktop\FSMAnimationStarter\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Chris\Desktop\FSMAnimationStarter\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Chris\Desktop\FSMAnimationStarter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Chris\Desktop\FSMAnimationStarter\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Chris\Desktop\FSMAnimationStarter\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Chris\Desktop\FSMAnimationStarter\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Chris\Desktop\FSMAnimationStarter\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Chris\Desktop\FSMAnimationStarter\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Chris\Desktop\FSMAnimationStarter\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Chris\Desktop\FSMAnimationStarter\obj\x86\Debug\FSMAnimationStarter.csprojAssemblyReference.cache
+C:\Users\Chris\Desktop\FSMAnimationStarter\obj\x86\Debug\FSMAnimationStarter.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Desktop\FSMAnimationStarter\obj\x86\Debug\FSMAnimationStarter.csproj.CopyComplete
+C:\Users\Chris\Desktop\FSMAnimationStarter\obj\x86\Debug\FSMAnimationStarter.exe
+C:\Users\Chris\Desktop\FSMAnimationStarter\obj\x86\Debug\FSMAnimationStarter.pdb
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\FSMAnimationStarter\bin\Windows\x86\Debug\Content\MarioSpriteSheet.xnb
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\FSMAnimationStarter\bin\Windows\x86\Debug\FSMAnimationStarter.exe
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\FSMAnimationStarter\bin\Windows\x86\Debug\FSMAnimationStarter.pdb
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\FSMAnimationStarter\bin\Windows\x86\Debug\MonoGame.Framework.dll
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\FSMAnimationStarter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\FSMAnimationStarter\bin\Windows\x86\Debug\SharpDX.dll
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\FSMAnimationStarter\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\FSMAnimationStarter\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\FSMAnimationStarter\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\FSMAnimationStarter\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\FSMAnimationStarter\bin\Windows\x86\Debug\SharpDX.XInput.dll
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\FSMAnimationStarter\bin\Windows\x86\Debug\MonoGame.Framework.xml
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\FSMAnimationStarter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\FSMAnimationStarter\bin\Windows\x86\Debug\SharpDX.xml
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\FSMAnimationStarter\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\FSMAnimationStarter\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\FSMAnimationStarter\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\FSMAnimationStarter\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\FSMAnimationStarter\bin\Windows\x86\Debug\SharpDX.XInput.xml
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\FSMAnimationStarter\obj\x86\Debug\FSMAnimationStarter.csprojAssemblyReference.cache
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\FSMAnimationStarter\obj\x86\Debug\FSMAnimationStarter.csproj.CopyComplete
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\FSMAnimationStarter\obj\x86\Debug\FSMAnimationStarter.exe
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\FSMAnimationStarter\obj\x86\Debug\FSMAnimationStarter.pdb
+G:\School Stuff\RIT\GDAPS 2\Practice Exercises\FSMAnimationStarter\bin\Windows\x86\Debug\Content\MarioSpriteSheet.xnb
+G:\School Stuff\RIT\GDAPS 2\Practice Exercises\FSMAnimationStarter\bin\Windows\x86\Debug\FSMAnimationStarter.exe
+G:\School Stuff\RIT\GDAPS 2\Practice Exercises\FSMAnimationStarter\bin\Windows\x86\Debug\FSMAnimationStarter.pdb
+G:\School Stuff\RIT\GDAPS 2\Practice Exercises\FSMAnimationStarter\bin\Windows\x86\Debug\MonoGame.Framework.dll
+G:\School Stuff\RIT\GDAPS 2\Practice Exercises\FSMAnimationStarter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+G:\School Stuff\RIT\GDAPS 2\Practice Exercises\FSMAnimationStarter\bin\Windows\x86\Debug\SharpDX.dll
+G:\School Stuff\RIT\GDAPS 2\Practice Exercises\FSMAnimationStarter\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+G:\School Stuff\RIT\GDAPS 2\Practice Exercises\FSMAnimationStarter\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+G:\School Stuff\RIT\GDAPS 2\Practice Exercises\FSMAnimationStarter\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+G:\School Stuff\RIT\GDAPS 2\Practice Exercises\FSMAnimationStarter\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+G:\School Stuff\RIT\GDAPS 2\Practice Exercises\FSMAnimationStarter\bin\Windows\x86\Debug\SharpDX.XInput.dll
+G:\School Stuff\RIT\GDAPS 2\Practice Exercises\FSMAnimationStarter\bin\Windows\x86\Debug\MonoGame.Framework.xml
+G:\School Stuff\RIT\GDAPS 2\Practice Exercises\FSMAnimationStarter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+G:\School Stuff\RIT\GDAPS 2\Practice Exercises\FSMAnimationStarter\bin\Windows\x86\Debug\SharpDX.xml
+G:\School Stuff\RIT\GDAPS 2\Practice Exercises\FSMAnimationStarter\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+G:\School Stuff\RIT\GDAPS 2\Practice Exercises\FSMAnimationStarter\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+G:\School Stuff\RIT\GDAPS 2\Practice Exercises\FSMAnimationStarter\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+G:\School Stuff\RIT\GDAPS 2\Practice Exercises\FSMAnimationStarter\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+G:\School Stuff\RIT\GDAPS 2\Practice Exercises\FSMAnimationStarter\bin\Windows\x86\Debug\SharpDX.XInput.xml
+G:\School Stuff\RIT\GDAPS 2\Practice Exercises\FSMAnimationStarter\obj\x86\Debug\FSMAnimationStarter.csprojAssemblyReference.cache
+G:\School Stuff\RIT\GDAPS 2\Practice Exercises\FSMAnimationStarter\obj\x86\Debug\FSMAnimationStarter.csproj.CoreCompileInputs.cache
+G:\School Stuff\RIT\GDAPS 2\Practice Exercises\FSMAnimationStarter\obj\x86\Debug\FSMAnimationStarter.csproj.CopyComplete
+G:\School Stuff\RIT\GDAPS 2\Practice Exercises\FSMAnimationStarter\obj\x86\Debug\FSMAnimationStarter.exe
+G:\School Stuff\RIT\GDAPS 2\Practice Exercises\FSMAnimationStarter\obj\x86\Debug\FSMAnimationStarter.pdb

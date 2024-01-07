@@ -1,0 +1,49 @@
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\Collision Detection\Collision Detection\bin\Windows\x86\Debug\Content\square.xnb
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\Collision Detection\Collision Detection\bin\Windows\x86\Debug\Collision Detection.exe
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\Collision Detection\Collision Detection\bin\Windows\x86\Debug\Collision Detection.pdb
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\Collision Detection\Collision Detection\bin\Windows\x86\Debug\MonoGame.Framework.dll
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\Collision Detection\Collision Detection\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\Collision Detection\Collision Detection\bin\Windows\x86\Debug\SharpDX.dll
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\Collision Detection\Collision Detection\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\Collision Detection\Collision Detection\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\Collision Detection\Collision Detection\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\Collision Detection\Collision Detection\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\Collision Detection\Collision Detection\bin\Windows\x86\Debug\SharpDX.XInput.dll
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\Collision Detection\Collision Detection\bin\Windows\x86\Debug\MonoGame.Framework.xml
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\Collision Detection\Collision Detection\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\Collision Detection\Collision Detection\bin\Windows\x86\Debug\SharpDX.xml
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\Collision Detection\Collision Detection\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\Collision Detection\Collision Detection\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\Collision Detection\Collision Detection\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\Collision Detection\Collision Detection\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\Collision Detection\Collision Detection\bin\Windows\x86\Debug\SharpDX.XInput.xml
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\Collision Detection\Collision Detection\obj\x86\Debug\Collision Detection.csprojAssemblyReference.cache
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\Collision Detection\Collision Detection\obj\x86\Debug\Collision Detection.csproj.CopyComplete
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\Collision Detection\Collision Detection\obj\x86\Debug\Collision Detection.exe
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\Collision Detection\Collision Detection\obj\x86\Debug\Collision Detection.pdb
+G:\School Stuff\RIT\GDAPS 2\Practice Exercises\Collision Detection\Collision Detection\bin\Windows\x86\Debug\Content\circle.xnb
+G:\School Stuff\RIT\GDAPS 2\Practice Exercises\Collision Detection\Collision Detection\bin\Windows\x86\Debug\Content\square.xnb
+G:\School Stuff\RIT\GDAPS 2\Practice Exercises\Collision Detection\Collision Detection\bin\Windows\x86\Debug\Collision Detection.exe
+G:\School Stuff\RIT\GDAPS 2\Practice Exercises\Collision Detection\Collision Detection\bin\Windows\x86\Debug\Collision Detection.pdb
+G:\School Stuff\RIT\GDAPS 2\Practice Exercises\Collision Detection\Collision Detection\bin\Windows\x86\Debug\MonoGame.Framework.dll
+G:\School Stuff\RIT\GDAPS 2\Practice Exercises\Collision Detection\Collision Detection\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+G:\School Stuff\RIT\GDAPS 2\Practice Exercises\Collision Detection\Collision Detection\bin\Windows\x86\Debug\SharpDX.dll
+G:\School Stuff\RIT\GDAPS 2\Practice Exercises\Collision Detection\Collision Detection\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+G:\School Stuff\RIT\GDAPS 2\Practice Exercises\Collision Detection\Collision Detection\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+G:\School Stuff\RIT\GDAPS 2\Practice Exercises\Collision Detection\Collision Detection\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+G:\School Stuff\RIT\GDAPS 2\Practice Exercises\Collision Detection\Collision Detection\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+G:\School Stuff\RIT\GDAPS 2\Practice Exercises\Collision Detection\Collision Detection\bin\Windows\x86\Debug\SharpDX.XInput.dll
+G:\School Stuff\RIT\GDAPS 2\Practice Exercises\Collision Detection\Collision Detection\bin\Windows\x86\Debug\MonoGame.Framework.xml
+G:\School Stuff\RIT\GDAPS 2\Practice Exercises\Collision Detection\Collision Detection\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+G:\School Stuff\RIT\GDAPS 2\Practice Exercises\Collision Detection\Collision Detection\bin\Windows\x86\Debug\SharpDX.xml
+G:\School Stuff\RIT\GDAPS 2\Practice Exercises\Collision Detection\Collision Detection\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+G:\School Stuff\RIT\GDAPS 2\Practice Exercises\Collision Detection\Collision Detection\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+G:\School Stuff\RIT\GDAPS 2\Practice Exercises\Collision Detection\Collision Detection\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+G:\School Stuff\RIT\GDAPS 2\Practice Exercises\Collision Detection\Collision Detection\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+G:\School Stuff\RIT\GDAPS 2\Practice Exercises\Collision Detection\Collision Detection\bin\Windows\x86\Debug\SharpDX.XInput.xml
+G:\School Stuff\RIT\GDAPS 2\Practice Exercises\Collision Detection\Collision Detection\obj\x86\Debug\Collision Detection.csprojAssemblyReference.cache
+G:\School Stuff\RIT\GDAPS 2\Practice Exercises\Collision Detection\Collision Detection\obj\x86\Debug\Collision Detection.csproj.CoreCompileInputs.cache
+G:\School Stuff\RIT\GDAPS 2\Practice Exercises\Collision Detection\Collision Detection\obj\x86\Debug\Collision Detection.csproj.CopyComplete
+G:\School Stuff\RIT\GDAPS 2\Practice Exercises\Collision Detection\Collision Detection\obj\x86\Debug\Collision Detection.exe
+G:\School Stuff\RIT\GDAPS 2\Practice Exercises\Collision Detection\Collision Detection\obj\x86\Debug\Collision Detection.pdb
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\Collision Detection\Collision Detection\bin\Windows\x86\Debug\Content\circle.xnb

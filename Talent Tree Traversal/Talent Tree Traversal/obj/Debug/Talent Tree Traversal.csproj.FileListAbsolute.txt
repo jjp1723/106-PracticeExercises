@@ -1,0 +1,6 @@
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\Talent Tree Traversal\Talent Tree Traversal\bin\Debug\Talent Tree Traversal.exe.config
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\Talent Tree Traversal\Talent Tree Traversal\bin\Debug\Talent Tree Traversal.exe
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\Talent Tree Traversal\Talent Tree Traversal\bin\Debug\Talent Tree Traversal.pdb
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\Talent Tree Traversal\Talent Tree Traversal\obj\Debug\Talent Tree Traversal.csprojAssemblyReference.cache
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\Talent Tree Traversal\Talent Tree Traversal\obj\Debug\Talent Tree Traversal.exe
+F:\School Stuff\RIT\GDAPS 2\Practice Exercises\Talent Tree Traversal\Talent Tree Traversal\obj\Debug\Talent Tree Traversal.pdb

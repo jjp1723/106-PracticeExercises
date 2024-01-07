@@ -1,0 +1,24 @@
+F:\School Stuff\RIT\GDAPS 2\In-Class Exercises\SpriteFont Practice\SpriteFont Practice\bin\Windows\x86\Debug\Content\Arial12.xnb
+F:\School Stuff\RIT\GDAPS 2\In-Class Exercises\SpriteFont Practice\SpriteFont Practice\bin\Windows\x86\Debug\Content\MeatballMan.xnb
+F:\School Stuff\RIT\GDAPS 2\In-Class Exercises\SpriteFont Practice\SpriteFont Practice\bin\Windows\x86\Debug\SpriteFont Practice.exe
+F:\School Stuff\RIT\GDAPS 2\In-Class Exercises\SpriteFont Practice\SpriteFont Practice\bin\Windows\x86\Debug\SpriteFont Practice.pdb
+F:\School Stuff\RIT\GDAPS 2\In-Class Exercises\SpriteFont Practice\SpriteFont Practice\bin\Windows\x86\Debug\MonoGame.Framework.dll
+F:\School Stuff\RIT\GDAPS 2\In-Class Exercises\SpriteFont Practice\SpriteFont Practice\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+F:\School Stuff\RIT\GDAPS 2\In-Class Exercises\SpriteFont Practice\SpriteFont Practice\bin\Windows\x86\Debug\SharpDX.dll
+F:\School Stuff\RIT\GDAPS 2\In-Class Exercises\SpriteFont Practice\SpriteFont Practice\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+F:\School Stuff\RIT\GDAPS 2\In-Class Exercises\SpriteFont Practice\SpriteFont Practice\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+F:\School Stuff\RIT\GDAPS 2\In-Class Exercises\SpriteFont Practice\SpriteFont Practice\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+F:\School Stuff\RIT\GDAPS 2\In-Class Exercises\SpriteFont Practice\SpriteFont Practice\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+F:\School Stuff\RIT\GDAPS 2\In-Class Exercises\SpriteFont Practice\SpriteFont Practice\bin\Windows\x86\Debug\SharpDX.XInput.dll
+F:\School Stuff\RIT\GDAPS 2\In-Class Exercises\SpriteFont Practice\SpriteFont Practice\bin\Windows\x86\Debug\MonoGame.Framework.xml
+F:\School Stuff\RIT\GDAPS 2\In-Class Exercises\SpriteFont Practice\SpriteFont Practice\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+F:\School Stuff\RIT\GDAPS 2\In-Class Exercises\SpriteFont Practice\SpriteFont Practice\bin\Windows\x86\Debug\SharpDX.xml
+F:\School Stuff\RIT\GDAPS 2\In-Class Exercises\SpriteFont Practice\SpriteFont Practice\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+F:\School Stuff\RIT\GDAPS 2\In-Class Exercises\SpriteFont Practice\SpriteFont Practice\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+F:\School Stuff\RIT\GDAPS 2\In-Class Exercises\SpriteFont Practice\SpriteFont Practice\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+F:\School Stuff\RIT\GDAPS 2\In-Class Exercises\SpriteFont Practice\SpriteFont Practice\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+F:\School Stuff\RIT\GDAPS 2\In-Class Exercises\SpriteFont Practice\SpriteFont Practice\bin\Windows\x86\Debug\SharpDX.XInput.xml
+F:\School Stuff\RIT\GDAPS 2\In-Class Exercises\SpriteFont Practice\SpriteFont Practice\obj\x86\Debug\SpriteFont Practice.csprojAssemblyReference.cache
+F:\School Stuff\RIT\GDAPS 2\In-Class Exercises\SpriteFont Practice\SpriteFont Practice\obj\x86\Debug\SpriteFont Practice.csproj.CopyComplete
+F:\School Stuff\RIT\GDAPS 2\In-Class Exercises\SpriteFont Practice\SpriteFont Practice\obj\x86\Debug\SpriteFont Practice.exe
+F:\School Stuff\RIT\GDAPS 2\In-Class Exercises\SpriteFont Practice\SpriteFont Practice\obj\x86\Debug\SpriteFont Practice.pdb
